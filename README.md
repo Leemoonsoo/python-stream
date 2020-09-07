@@ -71,3 +71,4 @@ H,e,l,l,o
 * Every stream API is lazily evaluated, so until you call action API, functions you passed to transformations will not be called.
 * Unlike Java 8 Stream API, min and max get key function instead of comparator.
 * Instead of concat, simplestream provides chain method which gets arbitrary number of streams.
+
